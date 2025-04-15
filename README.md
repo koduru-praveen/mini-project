@@ -1,1 +1,1 @@
-# mini-project
+# mini_finance_app
